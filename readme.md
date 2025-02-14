@@ -27,8 +27,8 @@ O projeto está organizado da seguinte forma:
 
 Você pode experimentar e rodar o código deste projeto diretamente no Google Colab utilizando os seguintes links:
 
-*   **Listas Ligadas:** [https://colab.research.google.com/drive/1DNFQI2MKo1Ym1pj2XiC2UVJpU5iMG_iv](https://colab.research.google.com/drive/1DNFQI2MKo1Ym1pj2XiC2UVJpU5iMG_iv)
-*   **Florestas de Conjuntos Disjuntos:** [https://colab.research.google.com/drive/10EzxjXMcNn82u6P8s4NSkbZZScBu9DHA](https://colab.research.google.com/drive/10EzxjXMcNn82u6P8s4NSkbZZScBu9DHA)
+*   **Florestas de Conjuntos Disjuntos:** [https://colab.research.google.com/drive/1DNFQI2MKo1Ym1pj2XiC2UVJpU5iMG_iv](https://colab.research.google.com/drive/1DNFQI2MKo1Ym1pj2XiC2UVJpU5iMG_iv)
+*   **Listas Ligadas:** [https://colab.research.google.com/drive/10EzxjXMcNn82u6P8s4NSkbZZScBu9DHA](https://colab.research.google.com/drive/10EzxjXMcNn82u6P8s4NSkbZZScBu9DHA)
 
 ## Slides Utilizados para apresentação
 
