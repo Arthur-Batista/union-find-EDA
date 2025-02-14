@@ -52,3 +52,8 @@ A estrutura de dados Union-Find pode ser utilizada em diversas aplicações, inc
 ## Referências
 
 *   CORMEN, Thomas. *Algoritmos – Teoria e Prática*. 3.ed. Rio de Janeiro: LTC, 2022.
+*   SEDGEWICK, Robert. Algorithms in C. 2. ed. Addison Wesley Longman, 1990.
+*   THOTA, Saigopal et al. Building Graphs at a Large Scale: Union Find Shuffle. Walmart Labs, 2021.
+*   CHEN, Y. et al. Asynchronous and Load-Balanced Union-Find for Distributed and Parallel Scientific Data Visualization and Analysis. 2020.
+*   ARTHUR, G. et al. Simpler Analyses of Union-Find. 2023.
+
